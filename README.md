@@ -1,2 +1,2 @@
-# changelog
-Changelogs for simProxy.
+# Changelog
+Changelogs for each version of simProxy.
